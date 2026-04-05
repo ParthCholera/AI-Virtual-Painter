@@ -43,30 +43,3 @@ python main.py
 | `C` Key         | Clear Screen |
 | `Q` Key         | Quit         |
 
-
-
----
-
-# 💡 Why this is powerful
-
-👉 Clean structure  
-👉 Easy to read  
-👉 Looks professional  
-👉 Shows your skills clearly  
-
----
-
-# 🎯 Your task
-
-✔ Create `README.md`  
-✔ Paste content  
-✔ Save  
-
----
-
-## 🔥 THEN run:
-
-```bash
-git add README.md
-git commit -m "Added README"
-git push
