@@ -43,3 +43,7 @@ python main.py
 | `C` Key         | Clear Screen |
 | `Q` Key         | Quit         |
 
+## 💻 Download App
+
+Download the EXE file here: https://drive.google.com/file/d/12cc6uynby9mzEl8_AdqUzR-2KOSu46iz/view?usp=sharing
+
